@@ -1,0 +1,63 @@
+[
+    {
+        "id": 1,
+        "image": "https://storage.googleapis.com/kagglesdsdata/datasets/93601/217672/zalando/hoodies-female/0VB21J000-Q11%407.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=databundle-worker-v2%40kaggle-161607.iam.gserviceaccount.com%2F20240815%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20240815T142226Z&X-Goog-Expires=345600&X-Goog-SignedHeaders=host&X-Goog-Signature=b2358811238273ac1d8f3c4b631a3c5a04f53ad290854d3830301fa06c4190e8a75518465cc7271a35bbed7ffdf10946d5bbe2d567ff644154fc8a865a3498597fd35deca40448e5d3443f6601ad14a2d465d84e4879b304c787b93c9a7841e2ee11b7fbe027f5ac6894be8d77f7e78e7782b3f17d32e10c2f59780b3acf0510539ecdffc520b931e5308430b171eb6b15e0919d1856eb20d65da4a9715a7e0ba5a20f681b2bfe0a6c2ff1ac0cea732061aa52f750eaf9d3a350b729da1335f866d980d0c534f0ab6d3eb093ff31584b7f3e90fd32475629f9d3dbee9b18b5cd7587b07c22d2b7a4ecdf06310e6226fb6bcce8ccf3cbaf9e1eaa52760d92e44a",
+        "description": "Hoodie",
+        "price": 10
+    },
+    {
+        "id": 2,
+        "image": "https://storage.googleapis.com/kagglesdsdata/datasets/93601/217672/zalando/hoodies-female/1FI41G007-J11%4010.1.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=databundle-worker-v2%40kaggle-161607.iam.gserviceaccount.com%2F20240815%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20240815T142226Z&X-Goog-Expires=345600&X-Goog-SignedHeaders=host&X-Goog-Signature=03f1c1497a975b100e0cd38f3a98c6fefcbceda0a1d02aa64e8918f18ff8bbd6a721c74d2e6648235a5c4cbfbe1fb5f5ce13d45d009255e3eaa84814a045e4137f2fb5755a8e84c2641a86b9fa2a4aa5085b117690bbca26ae30b4ac7e21c05e6b36227f0bec5d681b18a177b7ff2ab69c71122cc11d9fb70284d71b63facde16c294fea7637d9a0d99556412f7f25df94e0b8172465958091a26b2e32fdaa310c1a0fed7472e223b77d75e5722ace57001d85a9ed5d32d59447c20a158415a51b5501ffb1e1b3492f0718b64f35e32a91a55d7e419549a114b68b565105e3ef2321e47e958318e48c226604c2932c037b79a9f735867e8fa9be186c1c962bba",
+        "description": "Hoodie",
+        "price": 20
+    },
+    {
+        "id": 3,
+        "image": "https://storage.googleapis.com/kagglesdsdata/datasets/93601/217672/zalando/hoodies-female/1FI21J00A-G11%408.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=databundle-worker-v2%40kaggle-161607.iam.gserviceaccount.com%2F20240815%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20240815T142226Z&X-Goog-Expires=345600&X-Goog-SignedHeaders=host&X-Goog-Signature=6dcb55c354b9c412c39d55c701050d5e557edf4bdfb20cada0fd7d4d6c127e2d6b377812140b12598b4a63a70fab441eb36ac36b039b296363c1cce306b41893a9bea851b0f916b2bb02d30218e74a355a5a985f6468a0de20a916d3dee9b41b51658b0a7213622f21a45c0989cf54e2ff7ee3221378aee2cb2720f9eed5dd8eb474aa7fd18ca88f2bcdcdeea2c8758618804692651d4a420dac26b9417e83262e41efd52b4a225fece8efa86e07c43a51d272d58f3da382a2d1993610d5237cb2eb0b6e5ba76ba24fa9acfeefbe7d34d72bab46ee9f2d70107e4824e81f447aae15796ee5841110a02dd817fd12abe0a0fbbb2f2cb007b849b6470d70e6e333",
+        "description": "Hoodie",
+        "price": 30
+    },
+    {
+        "id": 4,
+        "image": "https://storage.googleapis.com/kagglesdsdata/datasets/93601/217672/zalando/hoodies/10K22S00B-K11%409.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=databundle-worker-v2%40kaggle-161607.iam.gserviceaccount.com%2F20240815%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20240815T113847Z&X-Goog-Expires=345600&X-Goog-SignedHeaders=host&X-Goog-Signature=8c13a7fb2bf0509dd244f78036c05bb096ddd538c4bf21439fc9ededf571fa4bf3f33edc1f2c46d0bd8d74cd45702c4203d641a39693a9be725ed0d1ca27f6e63df40f4951897c3fd56e37b50b9d95cd5668d76c6b2437105459833d943915e7ca2fae5138c8f5e4a58adbc7544903fb93a4bf18d5b4af858add2d0749f02c269108b0e2c0d99293f642ffc5973c69ea8be6641694ed8e2b49225a5bc623fd57edb24ed4f4bc8e985f7f6720239d9a028568b4859bcc1e6837d356852778d0a55fb50d0f02b755dd6f4f193a838bce6793a09dd0d5654308a9a904b0d46b39a4ddac93f96184f8176a38bf180e22b920b378ac5fa592329a3c4039513662ee70",
+        "description": "Hoodie",
+        "price": 40
+    },
+    {
+        "id": 5,
+        "image": "https://storage.googleapis.com/kagglesdsdata/datasets/93601/217672/zalando/hoodies/12022S00N-K11%409.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=databundle-worker-v2%40kaggle-161607.iam.gserviceaccount.com%2F20240815%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20240815T113847Z&X-Goog-Expires=345600&X-Goog-SignedHeaders=host&X-Goog-Signature=96d07ad6afee466e8e843bfa6ac9d9e7d039414f57cbf586c7140069f3e4884d3f9e2aa358c2d7814b5b3f1fe7d323498f108205498c6b3ce0c4118c9ee8225bdc95a85dae61775863bc27fb91dfc571d91fe92f7dc1f721c2ef8599bd829aaa1cee3455a9bd05be0d0deb59307fa9ab11c53c8eb2ace9dcd9bebd27840c7acca656b6bd66952ef57afa6e459637e3b4c949fee17dc82edcbb58b4c3e9abf634bccc74d93f72408cb3b2b7d84a90bfffdc65046495570a0e3cdc9f25940c23bc5b3079e09a28bf5aeeb0c2035bae86ddd331398223f8febdf93d1c4df7961be6b2faf5f67b65b33a3a96cc91c5df8c3a25a6d861efe494401e7f5f37c0452fea",
+        "description": "Hoodie",
+        "price": 50
+    },
+    {
+        "id": 6,
+        "image": "https://storage.googleapis.com/kagglesdsdata/datasets/93601/217672/zalando/hoodies/12022S00P-Q11%4010.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=databundle-worker-v2%40kaggle-161607.iam.gserviceaccount.com%2F20240815%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20240815T113847Z&X-Goog-Expires=345600&X-Goog-SignedHeaders=host&X-Goog-Signature=64f6c81e3243bff645f07d4e264ea5ebac98c904cc628281e358ec6d9c6408a6f39473d7282a00da88cda113cff77daa47263783fb4bb686872dd0261bc516c15336884e6d3f9bda00e0105b4993eb7815a7b706c1ccdfe958ecc03501067389ff2e2e9dd65e1dd7df9152bb44e25716b76ef00f415eebc64a9f7ec7729174b70e988974d1754e6b0129ae595f56fd433bba4f42c64c207bb44b33e44a2ed6c9008b7b36150859137f63e6de4f0943c5e891681a9922ed494993393471744f15e36f3b6424a0d3100e9a70879787480c71f824be4c2ba5470df96e7a91d0bd1847750f2085ea6a9cc54cc77268f65b9a7f7fc9304329a3c6e2cd122de2c18b6b",
+        "description": "Hoodie",
+        "price": 60
+    },
+    {
+        "id": 7,
+        "image": "https://storage.googleapis.com/kagglesdsdata/datasets/93601/217672/zalando/shirt/10K42D017-G11%408.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=databundle-worker-v2%40kaggle-161607.iam.gserviceaccount.com%2F20240815%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20240815T113824Z&X-Goog-Expires=345600&X-Goog-SignedHeaders=host&X-Goog-Signature=444807a8e8aad85031334e63f276cf9b528da563d9de9b6d0553a3cf1966f713b209d85ce27d4a2bb3d9f1a42cd6ed04f2cb36b45dcf6e258ea7ca9ab099b84cb12278cad8a1b2d802e74d6185b3be37cd8dfdadc829bb8d44ce1807a204d94b7481a16af6d733f445c351b2e0d499eaa9a3ccd60fae6a862a6ec86bf48c7eb603813c5bc4c10fe8dc6be5d35f67eb0a9fc80be8ce9d7418382873d5b4196d09da7411028003071ade0db6845efd7e870b40654bd878a5340f806e6a0d911146a66eef2c6262e7f551fe18023cdb6b156d479cd94fb443ce1e0086c5cc2ea3c87c2a4bc91072929a25f6f5b873e4088817923718072aa81981c7482512eea932",
+        "description": "Hoodie",
+        "price": 70
+    },
+    {
+        "id": 8,
+        "image": "https://storage.googleapis.com/kagglesdsdata/datasets/93601/217672/zalando/shirt/12022O00Z-K11%407.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=databundle-worker-v2%40kaggle-161607.iam.gserviceaccount.com%2F20240815%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20240815T113824Z&X-Goog-Expires=345600&X-Goog-SignedHeaders=host&X-Goog-Signature=2b8ef90558f7f8e1512a4ea2a6ec6ccc8006a71d38902a3a845ab98129846dac074de376d03ae81d8902fb407c33130df412d458b2621b67f40ca9b9e63e946a342116289ecb67bc8ef8f27d75c2dff03579e3a83a30c39cca5c682ebea67fb8454f21306fe1cef54107ecb6aa330302a20e11d721c0d3ff79d9ef964ba891123c1c89d182d62a99380569082c4834d417a70c5fd9e03c3008625a7960ffff7924a760e112a1e576ca6dcf485b1034e21f08f31dda38cb7b7db91da148afb0644eedf47e68cbf17d0e25441114efff4c66633a64798a8d14dc62c4ab18182cd45872819093d0f830362fd5759915aba0fff913eab8be2afc7313b280c594522c",
+        "description": "Hoodie",
+        "price": 80
+    },
+    {
+        "id": 9,
+        "image": "https://storage.googleapis.com/kagglesdsdata/datasets/93601/217672/zalando/sweatshirt-female/10K21J007-I11%404.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=databundle-worker-v2%40kaggle-161607.iam.gserviceaccount.com%2F20240815%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20240815T113828Z&X-Goog-Expires=345600&X-Goog-SignedHeaders=host&X-Goog-Signature=0ccbb67c63ea2972fae7c1cc0533214adff715a86d748975230607522b7f5963377ce1c34b9d83d7455089528bcdd5e9e93866bb8a50326ee1fa6abbfc456d67d7fa5464403c6b8197734404ea681ad4e239414121b71e928b1393f0d927986c2b2b2118744f969d85ee49d32eaafb86f72042ddd8c7e1fa51be4d5d74233ef0c6f71208680bfeae7661c7c674f78b74acf6c66803bd06435b880ad2d86cced2d445b2afe311bf1129d88cbd75bae51f4f1ceb9fde35cc158620e8e7bdcf87f01884ca38cc8ed55bf8afbc5d16762a97592945a053cd154e660acaba3a069441128c004b27b9736361c79e5c133c205f5c411e53c0a5227dbcebd431952314f4",
+        "description": "Hoodie",
+        "price": 90
+    },
+    {
+        "id": 10,
+        "image": "https://storage.googleapis.com/kagglesdsdata/datasets/93601/217672/zalando/sweatshirt-female/1FI21J00K-Q11%408.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=databundle-worker-v2%40kaggle-161607.iam.gserviceaccount.com%2F20240815%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20240815T113828Z&X-Goog-Expires=345600&X-Goog-SignedHeaders=host&X-Goog-Signature=940bd59745c170222d40212cba4c4fdb5c08779500af913d360922aba2ff21ffacfbe4441be5feaac92963da12512d39ff83a9e132b6e74e9d525fe20d5853a76d48cf198a031b4e9e89de26177784cf89f43fea8bc838a2fdf3b3dfa008f65be86067df9231527b062af0884e708dbf176de81acdd8653ef1337864e4f5107208b4357aa4043d5fd402e71e92506d3b5ac1cc44924a21d3934a952d9c90934116b58215e187da764c050acc5e2657f1cb43bce84e1569a6c4b1828276e9a7a47583941579f069aba0047cb61969d41034d8d140c0defcde9ae34111ffbb995c710b462c37ffd54a37ee801d3df9fbe89b85f70ac6749506a0af16e248928862",
+        "description": "Hoodie",
+        "price": 100
+    }
+
+]
