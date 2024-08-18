@@ -68,8 +68,8 @@ Welcome to the Virtual Try-On Platform! This project allows users to visualize h
 ## Usage
 
 1. Sign in using your credentials (handled by Clerk).
-2. Upload your image with a full face view.
-3. Select the clothing item you want to try on.
+2. Select the clothing item you want to try on.
+3. Upload your image with a full face view.
 4. The platform will process the images and display the result with your face swapped onto the model.
 
 ## Future Scope
